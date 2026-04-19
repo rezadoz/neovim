@@ -4270,8 +4270,8 @@ void intro_message(bool colon)
     "────────────────────────────────────────────",
     N_("type  :help news<Enter>     for v%s.%s notes "),
     "────────────────────────────────────────────",
-    N_("Help poor children in Uganda!"),
-    N_("type  :help Kuwasha<Enter>  for information "),
+    N_("Brush your teeth, stay hydrated"),
+    N_("Have you meditated today?"),
   };
 
   // blanklines = screen height - # message lines
